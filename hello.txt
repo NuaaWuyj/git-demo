@@ -1,4 +1,4 @@
 hello git
 master java Flink
-Kafka Flume
+Kafka Flume hot-mix
 master
